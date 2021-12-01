@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+good+example.html
+good+example_files/
